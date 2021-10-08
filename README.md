@@ -23,6 +23,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=peyton232&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
+<br/>
 
 ### Languages and Tools:
 <table><tr><td valign="top" width="33%">
