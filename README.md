@@ -7,7 +7,7 @@ In my spare time, I like to attend various hackathons to develop awesome applica
 
 If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 
-## I'm a Software Engineer, Student, and Tecaher
+## I'm a Software Engineer
 
 - 🌱 I’m currently learning React and next.js
 - 👯 I’m looking for mid level backedn or full stack roles
