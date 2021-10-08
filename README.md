@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
 ### Hi there, I'm Peyton Thibodeaux
 For as long as I can remember I have always been fascinated by technology and how it works. I have a passion for development and an eagerness to learn as much as I can.
 
