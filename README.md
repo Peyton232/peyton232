@@ -6,9 +6,10 @@ I work as a software engineer at Telecore and I’m currently finishing up my se
 In my spare time, I like to attend various hackathons to develop awesome applications over weekends. I also enjoy tutoring computer science subjects to introduce students to the field. Another area of interest is playing various board games, especially ones involving a level of strategy to them.
 
 If you want to know more about me, shoot me a message at peyton.t131@gmail.com
+<div align="center"> 
 <a href="https://linkedin.com/in/peyton-thibodeaux" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
+</div>
 ## I'm a Software Engineer
 
 - 🌱 I’m currently learning React and next.js
@@ -80,7 +81,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 <br/>  
 
 
-## Connect with me  
+## Stats 
 <!--
 <div align="center">
 <a href="https://linkedin.com/in/peyton-thibodeaux" target="_blank">
