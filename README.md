@@ -11,11 +11,11 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo"Color=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
 </div>
-## I'm a Software Engineer
+<!-- ## I'm a Software Engineer
 
 - 🌱 I’m currently learning React and next.js
 - 👯 I’m looking for mid level backedn or full stack roles
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects -->
   <br />
 
 ## Github Stats
