@@ -17,6 +17,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 - 👯 I’m looking for mid level backedn or full stack roles
 - 🥅 2022 Goals: Contribute more to Open Source projects -->
   <br />
+  -->
 
 ## Github Stats
 
