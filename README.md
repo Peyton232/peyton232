@@ -9,6 +9,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 <div align="left"> 
 <a href="https://linkedin.com/in/peyton-thibodeaux" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo"Color=white alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
 </div>
 ## I'm a Software Engineer
 
