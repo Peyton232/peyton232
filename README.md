@@ -90,9 +90,10 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 
 <br/>  
 
+<!--
 ## Visitors Count
 <img height="30px" src = "https://profile-counter.glitch.me/vnapnic/count.svg" alt ="Loading">
-
+-->
 
 
 
