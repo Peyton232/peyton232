@@ -14,7 +14,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 ## I'm a Software Engineer
 
 - 🌱 I’m currently learning blockchain and solidity 
-- 👯 I’m looking for contract work related to backend services or blockchain
+- 👯 I’m looking for contract work related to backend applications or services
 - 🥅 2022 Goals: Contribute more to Open Source projects
   <br />
 
