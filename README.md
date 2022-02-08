@@ -13,8 +13,8 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 </div>
 ## I'm a Software Engineer
 
-- 🌱 I’m currently learning React and next.js
-- 👯 I’m looking for mid level backend or full stack roles
+- 🌱 I’m currently learning blockchain and solidity 
+- 👯 I’m looking for contract work related to backend services or blockchain
 - 🥅 2022 Goals: Contribute more to Open Source projects
   <br />
 
