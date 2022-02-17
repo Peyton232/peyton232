@@ -105,14 +105,13 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 <br/>  
 
 ## Visitors Count
-<img height="30px" src = "https://profile-counter.glitch.me/vnapnic/count.svg" alt ="Loading">
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyton232&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
-
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peyton232&" alt="Peyton232" /></p>
 
