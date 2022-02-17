@@ -102,9 +102,6 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 
 
 ## Stats 
-<br/>  
-
-## Visitors Count
 
 <br/>
 
