@@ -1,4 +1,7 @@
 ### Hi there, I'm Peyton Thibodeaux
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Peyton232&label=Profile%20views&color=0e75b6&style=flat" alt="Peyton232" /> </p>
+
 For as long as I can remember I have always been fascinated by technology and how it works. I have a passion for development and an eagerness to learn as much as I can.
 
 I work as a software engineer at Centene and I’m currently finishing up my senior year at the University of North Texas, majoring in computer science. Every day I develop software for either work, school, or personal projects and enjoy every moment of it. I’m so glad I’m able to develop and use technology each day to solve new and interesting problems.
