@@ -121,7 +121,7 @@ https://peytonthibodeaux.com
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/6missedcalls/6missedcalls/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/peyton232/peyton232/output/snake.svg" alt="Snake animation" />
 
 ###
 
