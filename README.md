@@ -122,6 +122,7 @@ https://peytonthibodeaux.com
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/peyton232/peyton232/output/snake.svg" alt="Snake animation" />
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ###
 
