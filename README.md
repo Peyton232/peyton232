@@ -4,11 +4,11 @@
 
 For as long as I can remember I have always been fascinated by technology and how it works. I have a passion for development and an eagerness to learn as much as I can.
 
-I work as a software engineer at Centene and I’m currently finishing up my senior year at the University of North Texas, majoring in computer science. Every day I develop software for either work, school, or personal projects and enjoy every moment of it. I’m so glad I’m able to develop and use technology each day to solve new and interesting problems.
+I work as a software engineer at Bestow and I’m currently living my best life. Every day I develop software for either work or personal projects and enjoy every moment of it. I’m so glad I’m able to develop and use technology each day to solve new and interesting problems.
 
 In my spare time, I like to attend various hackathons to develop awesome applications over weekends. I also enjoy tutoring computer science subjects to introduce students to the field. Another area of interest is playing various board games, especially ones involving a level of strategy to them.
 
-If you want to know more about me, shoot me a message at peyton.t131@gmail.com
+If you want to know more about me, shoot me a message at peyton@thibs.dev
 <div align="left"> 
 <a href="https://linkedin.com/in/peyton-thibodeaux" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logo"Color=white alt=linkedin style="margin-bottom: 5px;"/>
@@ -17,7 +17,7 @@ If you want to know more about me, shoot me a message at peyton.t131@gmail.com
 ## I'm a Software Engineer
 
 - 🌱 I’m currently learning blockchain and solidity 
-- 👯 I’m looking for contract work related to backend applications or services
+- 👯 I’m looking to expand my network with other brilliant minds
 - 🥅 2022 Goals: Contribute more to Open Source projects
   <br />
 
