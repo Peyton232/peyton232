@@ -117,6 +117,13 @@ https://peytonthibodeaux.com
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Peyton232&" align="center" /></div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/6missedcalls/6missedcalls/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--
 ## Visitors Count
