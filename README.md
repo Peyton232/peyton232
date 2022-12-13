@@ -16,7 +16,7 @@ If you want to know more about me, shoot me a message at peyton@thibs.dev
 </div>
 ## I'm a Software Engineer
 
-- 🌱 I’m currently learning kubernetes and solidity 
+- 🌱 I’m currently learning Rust and solidity 
 - 👯 I’m looking to expand my network with other brilliant minds
 - 🥅 2022 Goals: Contribute more to Open Source projects
   <br />
