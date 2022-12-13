@@ -111,7 +111,7 @@ https://peytonthibodeaux.com
 ## Stats 
 
 <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/peyton232/github-readme-stats)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyton232&hide_border=true&layout=compact" align="center" /></div>
 
 
