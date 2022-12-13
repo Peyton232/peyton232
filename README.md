@@ -111,7 +111,7 @@ https://peytonthibodeaux.com
 ## Stats 
 
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyton232&langs_count=8&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peyton232&langs_count=6&hide_border=true&layout=compact" align="center" /></div>
 
 
 <br/>  
