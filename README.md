@@ -18,7 +18,7 @@ If you want to know more about me, shoot me a message at peyton@thibs.dev
 
 - 🌱 I’m currently learning Rust and solidity 
 - 👯 I’m looking to expand my network with other brilliant minds
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: get go-graphql shield up and running 
   <br />
   
 ## My Website (WIP)
