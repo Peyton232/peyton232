@@ -4,7 +4,7 @@
 
 For as long as I can remember I have always been fascinated by technology and how it works. I have a passion for development and an eagerness to learn as much as I can.
 
-I work as a software engineer at Bestow and I’m currently living my best life. Every day I develop software for either work or personal projects and enjoy every moment of it. I’m so glad I’m able to develop and use technology each day to solve new and interesting problems.
+I’m currently living my best life. Every day I develop software for either work or personal projects and enjoy every moment of it. I’m so glad I’m able to develop and use technology each day to solve new and interesting problems.
 
 In my spare time, I like to attend various hackathons to develop awesome applications over weekends. I also enjoy tutoring computer science subjects to introduce students to the field. Another area of interest is playing various board games, especially ones involving a level of strategy to them.
 
